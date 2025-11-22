@@ -1,9 +1,3 @@
-Entiendo perfectamente. Los símbolos `#` son la sintaxis de **Markdown** que GitHub utiliza para crear títulos y subtítulos en el archivo README. Aunque usted los vea, son necesarios para que GitHub los **muestre correctamente** como formato profesional.
-
-Aquí tiene el texto del README en inglés, en formato Markdown, listo para copiar y pegar en su archivo `README.md`:
-
------
-
 # Chicago Taxi Operations Optimization: Statistical Analysis of Weather Impact on ETA
 
 ## Project Overview
